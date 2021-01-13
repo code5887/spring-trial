@@ -1,4 +1,4 @@
-package com.pratik.springsql;
+package com.trim.home;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
